@@ -2,7 +2,7 @@ topnav:
 - title: Topnav
   items:
     - title: github
-      external_url: https://github.com/jaeeolma/luonnontila.fi/tree/main/
+      external_url: https://github.com/jaeeolma/luonnontilafi/tree/main/
 
 #Topnav dropdowns
 topnav_dropdowns:
