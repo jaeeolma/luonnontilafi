@@ -1,7 +1,7 @@
-repository: jaeeolma/luonnontila.fi
+repository: jaeeolma/luonnontilafi
 output: web
-topnav_title: luonnontila.fi
-site_title: luonnontila.fi
+topnav_title: luonnontilafi
+site_title: luonnontilafi
 company_name: Janne Mäyrä
 description: Data generation for Luonnontila.fi
 # Set to false to disable KaTeX math
