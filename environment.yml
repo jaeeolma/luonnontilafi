@@ -1,0 +1,15 @@
+name: luonnontilafi
+channels:
+  - conda-forge
+  - fastchan
+dependencies:
+  - python==3.9
+  - conda-forge::pip
+  - conda-forge::geopandas
+  - conda-forge::rasterio
+  - fastchan::nbdev
+  - conda-forge::matplotlib
+  - pip: 
+    - xlrd
+    - openpyxl
+    - seaborn
